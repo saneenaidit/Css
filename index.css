@@ -1,0 +1,62 @@
+
+
+/* 3. Styliser le body : police et taille */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  background-color: #f5f5f5;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+/* 4. Styliser le header : couleur d’arrière-plan */
+header {
+  background-color: #004080;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* 5. Styliser la nav : couleur d’arrière-plan */
+nav {
+  background-color: #0066cc;
+  padding: 10px;
+}
+
+/* 6. Styliser main : couleur d’arrière-plan et taille de police */
+main {
+  background-color: #ffffff;
+  font-size: 18px;
+  padding: 20px;
+}
+
+/* 7. Styliser le footer : couleur d’arrière-plan */
+footer {
+  background-color: #003366;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+/* 8. Styliser li : affichage et largeur */
+li {
+  display: inline-block;
+  width: 120px;
+  text-align: center;
+  list-style-type: none;
+}
+
+/* 9. Styliser h1 : alignement, police et couleur */
+h1 {
+  text-align: center;
+  font-family: 'Georgia', serif;
+  color: #ffcc00;
+}
+
+/* 10. Styliser p : hauteur de ligne */
+p {
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
